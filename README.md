@@ -1,2 +1,3 @@
 # Space-Invaders-Clone
-Clone of Space Invaders
+CS 232 - Python Programming - Spring 2021  
+*Python Version 3.6*
