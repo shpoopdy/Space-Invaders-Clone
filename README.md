@@ -9,7 +9,7 @@ pip install pygame-menu
 ```
 
 # Intro
-This is my version of the space invaders clone that we made for CS 232 Pythong Programming.
+This is my version of the space invaders clone that we made for CS 232 Python Programming.
 For this assingment I learned to work with pygame to create a window and screen, which I 
 populated with images and created the logic for how the invaders should behave at certain points.
 My version included a boss that did not go to lower levels, but was to be protected by the other 
